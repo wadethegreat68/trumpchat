@@ -35,8 +35,8 @@ li {
 }
 
 .dark-theme {
-    --bg: var(--black);
-    --fontColor: var(--white);
+    --bg: var(--white);
+    --fontColor: var(--black);
     --btnBg: var(--white);
     --btnFontColor: var(--black);
 }
